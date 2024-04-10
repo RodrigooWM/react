@@ -2,10 +2,13 @@ import './App.css'
 import Ola from './components/Ola'
 import DigaMeuNome from './components/DigaMeuNome'
 import Pessoa from'./components/Pessoa'
+
 export function App() {
-  let nome ="Anubis"
+  const nome ="Anubis"
   return (
     <div className="App">  
+    <h1>Testando o CSS</h1>
+      
       <Ola />
       <DigaMeuNome nome="A Adamastor" />
       <DigaMeuNome nome="B Braulino" />
