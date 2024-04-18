@@ -24,7 +24,7 @@ export function App() {
       <Eventos numero="1" />
       <Eventos numero="2" />
       <Eventos numero="3" />
-      <Forms /><p>Teoricamente deveriamos clicar em "cadastrar" e a informação apareceeir ano console do site, mas não aparece.</p>
+      <Forms />
 
     </div>
     
